@@ -12,25 +12,25 @@ I am always looking for opportunities to learn, improve my skills, and contribut
 
 ## Skills
 
-![Python]
+Python
 
-![Flask]
+Flask
 
-![Digital Forensics]
+Digital Forensics
 
-![Malware Analysis]
+Malware Analysis
 
-![HTML & CSS]
+HTML & CSS
 
-![SQL]
+SQL
 
-![GitHub]
+GitHub
 
-![YARA]
+YARA
 
-![ReportLab]
+ReportLab
 
-![Matplotlib]
+Matplotlib
 
 ## Featured Projects
 **DeepScan – Advanced File Analysis & YARA Forensic Intelligence Suite**
@@ -47,15 +47,15 @@ This project is a real-time IoT security monitoring and threat intelligence syst
 
 ## Currently Learning
 
-![Information Security]
+Information Security
 
-![Digital Forensics]
+Digital Forensics
 
-![Incident Response]
+Incident Response
 
-![Network Security]
+Network Security
 
-![Linux]
+Linux
 
 ## Career Goal
 
